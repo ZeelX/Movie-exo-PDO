@@ -1,0 +1,17 @@
+{
+    "name": "hb/exo2",
+    "autoload": {
+        "psr-4": {
+            "Hb\\Exo2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo",
+            "email": "tareuss@enschort.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.4"
+    }
+}

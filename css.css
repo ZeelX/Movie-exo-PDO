@@ -1,0 +1,23 @@
+.tableLine td{
+    width:20%;
+}
+.tableLine:hover{
+    background-color: lightblue;
+    font-size:20px;
+    color:white;
+}
+
+.myLight { border-radius: 10px; box-shadow:-3px -3px 4px #6E6E6E;}
+.myShadow{ box-shadow:3px 3px 3px #222222;}
+.myInput {
+    color:white;
+    border: unset;
+    background-color:#212529;
+    border-radius: 10px;
+    box-shadow:0 2px 1px #6E6E6E;
+}
+
+
+.formContour{
+    background-image:  ;
+}
